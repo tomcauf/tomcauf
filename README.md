@@ -35,7 +35,7 @@
     <img height="32" width="32" src="./images/java.svg" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/rust/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/rust/brown" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/swift" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
@@ -60,7 +60,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/hotpink" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
 </span>
@@ -68,6 +68,6 @@
 
 ### 🖥️ OS
 <span>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/apple/white" /><img height="32" width="32" src="https://cdn.simpleicons.org/macos/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/apple/yellow" /><img height="32" width="32" src="https://cdn.simpleicons.org/macos/yellow" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
 </span>
