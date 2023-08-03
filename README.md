@@ -28,46 +28,47 @@
 ![Top Langs](https://tomcauf-github-readme.vercel.app/api/top-langs/?username=tomcauf&theme=calm&layout=compact)
 ### 💻 Languages
 <span>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-    <img height="32" width="32" src="./images/java.svg" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/rust/brown" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/swift" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/php" alt="PHP" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="Javascript" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="Typescript" />
+    <img height="32" width="32" src="./images/java.svg" alt="Java" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/c" alt="C" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" alt="C#" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/rust/brown" alt="Rust" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/swift" alt="Swift" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" alt="Node.js" />
 <span>
 </br>
 
 ### 🗄️ Technologies
 <span>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" alt="MySQL" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/sass" alt="Sass" />
 </span>
 </br>
 
 ### 🛠️ Outils de développement
 <span>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/hotpink" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/figma" alt="Figma" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/npm" alt="Npm" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" alt="Yarn" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/git" alt="Git" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" alt="GitHub" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="VisualStudioCode" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" alt="Visual Studio" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/hotpink" alt="JetBrains" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" alt="Adobe Photoshop" />
 </span>
 </br>
 
 ### 🖥️ OS
 <span>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/apple/yellow" /><img height="32" width="32" src="https://cdn.simpleicons.org/macos/yellow" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/apple/yellow" alt="Apple" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/macos/yellow" alt="MacOs" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="Windows" />
 </span>
