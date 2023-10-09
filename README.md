@@ -1,3 +1,4 @@
+<div style="background:#2c2a2e;">
 <h1 align="center">Hi there, I'm  <a href="https://www.tomcaufrier.be/" target="_blank" rel="noreferrer">Tom</a> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="28px" alt="👋"></h1>
 
 <h2 align="center">Welcome to my page.</h2>
@@ -75,3 +76,5 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/apple" alt="Apple" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="Windows" />
 </span>
+
+</div>
