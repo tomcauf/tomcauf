@@ -22,8 +22,8 @@
 ## 🌱 I'm currently learning
 
 - Three.js
-- React
-- Python
+- UX Design
+- Next.js
 
 ## 💼 Technical Skills
 
