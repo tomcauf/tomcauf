@@ -27,7 +27,7 @@
 
 ## 💼 Technical Skills
 
-#![Top Langs](https://tomcauf-github-readme.vercel.app/api/top-langs/?username=tomcauf&theme=calm&layout=compact)
+<!-- ![Top Langs](https://tomcauf-github-readme.vercel.app/api/top-langs/?username=tomcauf&theme=calm&layout=compact) -->
 
 ### 💻 Languages & Framework
 
