@@ -22,7 +22,7 @@
 ## 🌱 I'm currently learning
 
 - Three.js
-- UX Design
+- UX / UI Design
 - Next.js
 
 ## 💼 Technical Skills
