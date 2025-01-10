@@ -3,7 +3,7 @@
 
 <h2 align="center">Welcome to my page.</h2>
 
-<h3 align="center"> I'm a Fullstack Dev. & Designer 💻
+<h3 align="center"> I'm a Fullstack Dev. & Software Engineer for Azimut 💻
     ,<br> Passionate by Front-end development and UI/UX Design 🎨! </h3>
 <p align="center"><i>Open to work on interesting and innovative projects.</i></p>
 <p align="center">
@@ -16,8 +16,7 @@
 
 ## 🔭 I'm currently working on
 
-- Studies Project at [HELMo](https://www.helmo.be/)
-- Intership
+- Azimut Energy
 - Portfolio
 
 ## 🌱 I'm currently learning
